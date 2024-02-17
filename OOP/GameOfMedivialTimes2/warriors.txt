@@ -1,0 +1,28 @@
+
+Warrior Jim Glamdring 42
+Warrior Lancelot Naegling 15
+Warrior Arthur Excalibur 15
+Warrior Torvalds Narsil 20
+Warrior Agha Zulifqar 1000
+Warrior Gates Orcrist 8
+Warrior Paul Bitcoin 500
+Warrior Arthur Excalibur 15
+Status
+Battle Agha Jim
+Battle Agha Lancelot
+Battle Agha Arthur
+Battle Agha Torvalds
+Battle Agha Gates
+Battle Agha Arthur
+Battle Arthur Lancelot
+Battle Agha Paul
+Warrior Kenny Oshanov 32
+Battle Jim Lancelot
+Battle Torvalds Gates
+Battle Gates Lancelot
+Status
+Battle Saban Frank
+Battle Kenny Torvalds
+Battle Gates James
+Battle Sal Gates
+Status

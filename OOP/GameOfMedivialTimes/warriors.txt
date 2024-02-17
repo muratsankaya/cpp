@@ -1,0 +1,19 @@
+Warrior	Jim	42
+Warrior	Lancelot 15
+Warrior Arthur 15
+Warrior Torvalds 20
+Warrior Gates 8
+Warrior Arthur 355
+Status
+Battle Arthur Lancelot
+Battle Jim Lancelot
+Battle Torvalds Gates
+Battle Gates Lancelot
+Warrior Sparta 50
+Battle Jim Sparta
+Battle Sparta Arthur
+Battle Lancelot Torvalds
+Battle Kelly Morris
+Battle Lancelot Merry
+Battle Sal Arthur
+Status
